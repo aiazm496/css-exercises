@@ -1,0 +1,22 @@
+div{
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    background-color: hwb(120 0% 50%);
+}
+
+div,p{
+    color: whitesmoke;
+}
+
+button{
+    background-color: orange;
+}
+
+p,button{
+    font-size: 18px;
+}
